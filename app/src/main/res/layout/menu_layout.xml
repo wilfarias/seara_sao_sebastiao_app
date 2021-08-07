@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardBackgroundColor="@color/activity_background"
+    app:cardElevation="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="0dp">
+
+        <ImageView
+            android:id="@+id/imageView_opcaoMenu"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/imagem_banho_ervas" />
+
+        <TextView
+            android:id="@+id/textView_nomeOpcaoMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="6dp"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp"
+            android:text="@string/menu_banhos_ervas"
+            android:textColor="@color/text_color"
+            android:textSize="72px" />
+
+        <TextView
+            android:id="@+id/textView_descricaoOpcaoMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:justificationMode="inter_word"
+            android:padding="6dp"
+            android:text="@string/descricao_banhos_ervas"
+            android:textColor="@color/text_color"
+            android:textSize="42px" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
