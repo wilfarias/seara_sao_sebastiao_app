@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614493222166",
+    "firebase_url": "https://sssapp-593e5-default-rtdb.firebaseio.com",
+    "project_id": "sssapp-593e5",
+    "storage_bucket": "sssapp-593e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614493222166:android:38877a1438a46e12fb0c37",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.sssapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614493222166-75btbbvjh6glgsauugrjsf083om8sp9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.sssapp",
+            "certificate_hash": "3709410181582a70b3e5a296593ed6115a34969c"
+          }
+        },
+        {
+          "client_id": "614493222166-r569ipq26qh0rhg9tatm357sbeu75pa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBQmNmBkwtGl1A2sMv86FPh0Esrcgato"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614493222166-r569ipq26qh0rhg9tatm357sbeu75pa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
