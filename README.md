@@ -21,14 +21,14 @@ O projeto segue em atualizações períodicas de acordo com as necessidades da S
 # Versões
 
 ## 0.2
-- Atualização do aplicativo implementando:
- .Menu de Orações e sua lista
- .Migração do banco de dados para o Firebase
+Atualização do aplicativo implementando:
+- Menu de Orações e sua lista
+- Migração do banco de dados para o Firebase
 
 ## 0.1
-- Implementação inicial do aplicativo com
- .Menu de Banhos de ervas e sua lista
- .Utilização do SQLite como base de dados
+Implementação inicial do aplicativo com: 
+- Menu de Banhos de ervas e sua lista
+- Utilização do SQLite como base de dados
 
 # Autor
 
