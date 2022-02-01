@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/wilfarias/seara_sao_sebastiao_app/blob/main/LICENSE) 
 
 # Sobre o projeto
-O aplicativo desenvolvido para a Seara São Sebastião é uma aplicação mobile totalmente em JAVA desenvolvida em 2021.
+O aplicativo desenvolvido para a Seara São Sebastião é uma aplicação mobile para Android totalmente em JAVA desenvolvida em 2021.
 
 A aplicação consiste em um acervo de informações referentes às práticas religiosas afetas a Seara em questão, de maneira a tornar o acesso a informação mais dinâmico e prático para todos os integrantes e participantes da mesma.
 
